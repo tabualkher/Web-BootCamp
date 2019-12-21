@@ -1,9 +1,30 @@
 using CSS
-- style=""
-- <style> body {} hr{} ... </style> .. in header section
+inline
+<element style="">
 
+internal
+<style> 
+body {} 
+hr{} ... 
+</style> .. in header section
 
+external
+<link rel="stylesheet" href="css/style.css">
 
+Tag Selectors
+TagName {
 
+}
+
+ClassSelector
+.ClassName {
+}
+
+IdSelector
+#IdName {
+
+}
+
+id is unique but class maybe repeated in more items
 
 

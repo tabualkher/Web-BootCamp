@@ -1,0 +1,34 @@
+body{
+  margin: 0;
+}
+.Top-Container{
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+}
+.Middle-Container {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top:200px;
+}
+
+.Bottom-Container {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+
+}
+
+img {
+  display: inline-block;
+}

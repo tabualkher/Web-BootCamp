@@ -10,3 +10,17 @@ Language Documentation
 
 Internet Cables around world
 -www.submarinecablemap.com
+
+website to emojies
+-emojipedia.org
+
+to make icons
+https://www.favicon.cc/
+www.flaticon.com
+www.giphy.com
+
+to create a buttons
+http://www.cssbuttongenerator.com/
+
+html & css challenges
+https://www.frontendmentor.io/
